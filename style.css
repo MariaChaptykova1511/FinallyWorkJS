@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: url('img/background.svg');
+}
+
+.menu-name {
+  font: bold 57px/67px 700 'robotobold', sans-serif;
+  color: #fff;
+  margin: 0;
+}
+.menu-name-text {
+  font: bold 19px/22px 700 'robotobold', sans-serif;
+  color: #fff;
+}
+
+.menu-list {
+  font: bold 50px/59px 700 'robotobold', sans-serif;
+  color: #fff;
+}
+
+.button {
+  width: 25%;
+  height: 10%;
+  background: #d62b2e;
+  border-radius: 7px;
+}
